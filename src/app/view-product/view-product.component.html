@@ -1,0 +1,42 @@
+
+<!-- {{product | json}} -->
+
+
+<div class="container p-5  text-center">
+ <h2><i class="fa-solid fa-square-eye"></i>&nbsp; &nbsp;VIEW PRODUCTS </h2>
+ </div>
+ <div class="container ">
+  <div class="row  ">
+   
+   
+ 
+   
+   <div class="col-lg-6 ">
+    <h2 class="text-light mb-2 bg-warning p-5">Walnut Leather Bag</h2>
+  
+   <form>
+     <ul class="list-group">
+      <li class="list-group-item pt-3 pb-3" >Price : Rs.{{product.price}} </li>
+      <li class="list-group-item pt-3 pb-3">Material : {{product.material}}</li>
+      <li class="list-group-item pt-3 pb-3">Vendor : {{product.vendor}}</li>
+      <li class="list-group-item pt-3 pb-3">Type : {{product.type}}</li>
+      <li class="list-group-item pt-3 pb-3">Availability : {{product.availability}}</li>
+      <li class="list-group-item pt-3 pb-3">Product Description : 
+       <br>
+       <p class="pt-3">{{product.description}}</p>
+      </li>
+    </ul>
+ <div class="mt-4 mb-5">
+    <input type="button" routerLink="/products/edit/{{product.id}}" class="btn btn-success" value=" EDIT PRODUCTS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a routerLink="/" class="btn btn-warning">CLOSE</a>
+ </div>
+   </form>
+   </div>
+   <div class="col-lg-6">
+    <img [src]="product.photo" class="w-75" alt="">
+   </div>
+  </div>
+ </div>
+
+
+

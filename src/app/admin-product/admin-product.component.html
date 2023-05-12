@@ -1,0 +1,24 @@
+<!-- {{allProducts | json}} -->
+ <div class="container pt-2">
+  <h2 class="text-center mt-5">OUR LATEST PRODUCTS</h2>
+<div class="row mt-5 pt-3">
+   <div class="col-lg-4 mb-4" *ngFor="let products of allProducts">
+    <div class="card" style="width: 18rem; height:650px;">
+     <img [src]="products.photo" class="card-img-top" alt="...">
+     <div class="card-body text-center">
+       <h5 class="card-title text-info "><b>{{products.name}}</b></h5>
+       <p class="card-text text-success  fs-3"><b>{{products.name}}</b></p>
+       <p class="card-text pt-2 "><b>Rs. {{products.price}}</b></p>
+       <div class="card-text">
+        <a class="btn btn-success" routerLink="/products/edit/{{products.id}}"><i class="fa-solid fa-pen"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="btn btn-warning" routerLink="/products/view/{{products.id}}"><i class="fa-solid fa-eye "></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <button (click)="deleteProduct(products.id)" class="btn btn-danger"><i class="fa-solid fa-trash"></i></button>
+       
+       </div>
+     </div>
+   </div>
+   </div>
+
+</div>
+ </div>
+

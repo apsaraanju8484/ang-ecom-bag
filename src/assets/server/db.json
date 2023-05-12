@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Walnut Leather Bag",
+      "price": "600.00",
+      "material": "Cotton",
+      "vendor": "Elena",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-01_2000x.jpg?v=1639629838",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "2",
+      "name": "Golden Buckle Handbag",
+      "price": "406.00",
+      "material": "Woolen",
+      "vendor": "Elena",
+      "type": "Totebag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-02_4d37dde3-4925-4abd-a041-f1f172c56c1c_2000x.jpg?v=1639631074",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "3",
+      "name": "Krimson Hand Bag",
+      "price": "478.00",
+      "material": "Fabric",
+      "vendor": "Veelo",
+      "type": "Slingbag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-03_ee4f5322-856f-4945-9726-68d7d63fcc4d_2000x.jpg?v=1639631281",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "4",
+      "name": "Ryan Phil Hand Bag",
+      "price": "364.00",
+      "material": "Woolen",
+      "vendor": "Ephiany",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-05_e896a715-0b59-4d0e-9d54-53ea3415b219_2000x.jpg?v=1639630333",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "5",
+      "name": "Jeanica Lenner Bag",
+      "price": "460.00",
+      "material": "Cotton",
+      "vendor": "Elena",
+      "type": "Slingbag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-04_a0e0bd96-d4a2-484f-8dbf-d235e0afcaa6_2000x.jpg?v=1639630215",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "6",
+      "name": "Green Crocs Mini",
+      "price": "208.00",
+      "material": "Fabric",
+      "vendor": "Elena",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-06_1eb14854-50a4-421f-a8f5-8644439ee655_2000x.jpg?v=1639630439",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "7",
+      "name": "Diane Crysta Leather Bag",
+      "price": "368.00",
+      "material": "Woolen",
+      "vendor": "Veelo",
+      "type": "Totebag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-07_c7b7646e-4ab3-49d1-8f69-37af0977c785_2000x.jpg?v=1639631411",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "8",
+      "name": "Leather Delight Handbag",
+      "price": "756.00",
+      "material": "Cotton",
+      "vendor": "Veelo",
+      "type": "Totebag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-08_39c94982-a476-4815-9d4f-b7ce62b9fd99_2000x.jpg?v=1639630669",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "9",
+      "name": "Crimson Hand Bag",
+      "price": "106.00",
+      "material": "Cotton",
+      "vendor": "Elena",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-09_cd86efe1-ad4f-4c04-ab27-9679fbb87a1b_2000x.jpg?v=1639630742",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "10",
+      "name": "Crysta Leather Bag",
+      "price": "106.00",
+      "material": "Cotton",
+      "vendor": "Ephiany",
+      "type": "Slingbag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-10_43f65c5b-5a77-4f59-91bb-93bc29a7f23b_2000x.jpg?v=1639630821",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "11",
+      "name": "Walnut Leather",
+      "price": "500.00",
+      "material": "Cotton",
+      "vendor": "Elena",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/products/shop-05_7e91efb6-963a-43e5-b32a-491c959c0f31.jpg?v=1639630836",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "id": "12",
+      "name": "Leather Bag",
+      "price": "800.00",
+      "material": "Cotton",
+      "vendor": "Elena",
+      "type": "HandBag",
+      "photo": "https://cdn.shopify.com/s/files/1/0614/8227/0959/files/home-banner-image-5.jpg?v=1643018424",
+      "availability": "Instock",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam animi a assumenda delectus neque dolores voluptatibus quis, reprehenderit, ea, consequuntur nulla pariatur hic magni doloribus tenetur consectetur nostrum libero. Libero! "
+    },
+    {
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.80NIQORpN8qbm8U3JdxRAwHaH3&pid=Api&P=0",
+      "id": "15",
+      "price": "689",
+      "material": "Fabric",
+      "name": "Womenstyle",
+      "vendor": "Macrom",
+      "type": "Slinbag",
+      "availability": "Instock",
+      "description": "loremnjdvhuishfjkniojdknwpoq[iiotiyrigbb jkg "
+    }
+  ]
+}

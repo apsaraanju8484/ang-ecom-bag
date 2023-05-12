@@ -1,0 +1,67 @@
+<div class="container p-5 mt-4 text-center">
+ <h2><i class="fa-solid fa-square-plus"></i>&nbsp; &nbsp;ADDING PRODUCTS </h2>
+ </div>
+ <div class="container ">
+  <div class="row  ">
+   
+   
+ 
+   
+   <div class="col-lg-6 ">
+    <h2 class="text-light mb-2 bg-warning p-5">Walnut Leather Bag</h2>
+
+
+
+    <form action="">
+<div class="mb-2">
+  <input type="text" name="productid" [(ngModel)]="product.id" id="" placeholder="Id : " class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productname" [(ngModel)]="product.name" id="" placeholder="Name : " class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productmaterial" [(ngModel)]="product.material" id="" placeholder="Material :" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productprice" [(ngModel)]="product.price" id="" placeholder="Price :" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productimage" [(ngModel)]="product.photo" id="" placeholder="Image :" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productvendor" [(ngModel)]="product.vendor" id="" placeholder="Vendor :" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productype"[(ngModel)]="product.type" id="" placeholder="Type" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productavailability" [(ngModel)]="product.availability" id="" placeholder="Availability :" class="form-control">
+</div>
+
+<div class="mb-2">
+  <input type="text" name="productdescription" [(ngModel)]="product.description" id="" placeholder="Description :" class="form-control">
+</div>
+
+
+
+<div class="mb-2">
+  <input type="button" (click)="addProduct()" Name="" id="" placeholder="Availability :" class="btn btn-success" value="CREATE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a routerLink="/" class="btn btn-warning" >CLOSE</a>
+</div>
+    </form>
+  
+  
+   </div>
+   <div class="col-lg-6">
+    <img [src]="product.photo" class="w-75" alt="">
+   </div>
+  </div>
+ </div>
+
